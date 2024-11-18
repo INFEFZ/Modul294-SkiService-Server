@@ -1,3 +1,5 @@
+### Open-API, Swagger
+GET http://localhost:5000/api/api-docs
 
 ### GET registration
 GET http://localhost:5000/api/registrations
