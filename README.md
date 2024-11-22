@@ -4,15 +4,12 @@
 
 - Node.js muss installiert sein
   
-## Setup
+## Setup / Installation
 
-- `npm init --y`
-- `npm install --save express dotenv cors`
-- `npm install --save-dev nodemon`
+Achtung: Der nachfolgende Installationsbefehl muss zwingend aus dem Projektverzeichnis des Node.js Servers (./server) gestartet werden.
+`C:\skiservice-server\server`
 
-## Swagger Install Dependencies for swagger
-
-- `npm i swagger-ui-express -S`
+- `npm install`
 
 ## Start
 
